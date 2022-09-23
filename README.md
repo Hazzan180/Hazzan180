@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, My name is Ayodele Taiwo Hazzan</h1>
 <h3 align="center">A passionate frontend developer that love building project that solve problem</h3>
-
+<img align="center" width="500"  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazzan180&label=Profile%20views&color=0e75b6&style=flat" alt="hazzan180" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazzan180" alt="hazzan180" /></a> </p>
