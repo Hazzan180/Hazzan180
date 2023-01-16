@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Ayodele Taiwo Hazzan</h1>
-<h3 align="center">Am a software developer that specialized on the front-end development. I love building project that solve problem and that's user-friendly and easy to use</h3>
+<h3 align="center">Am a software developer that specialized on the front-end development. I love building project that solve problem, user-friendly and easy to use</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazzan180&label=Profile%20views&color=0e75b6&style=flat" alt="hazzan180" /> </p>
 
